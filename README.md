@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @latoyadb aka Toya in Tech
 - 👀 I’m interested in data analytics, business intelligence, and machine learning.
-- 🌱 I’m currently improving my python skills
+- 🌱 I’m currently completing sql and python projects for my portfolio.
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/latoyadbrown/'>I'm on Linkedin!</a>
 
 <!---
